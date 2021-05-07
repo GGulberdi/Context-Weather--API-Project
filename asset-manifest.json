@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Context-Weather--API-Project/static/css/main.e087d1e4.chunk.css",
+    "main.js": "/Context-Weather--API-Project/static/js/main.0a2d09e9.chunk.js",
+    "main.js.map": "/Context-Weather--API-Project/static/js/main.0a2d09e9.chunk.js.map",
+    "runtime-main.js": "/Context-Weather--API-Project/static/js/runtime-main.4dd0cbff.js",
+    "runtime-main.js.map": "/Context-Weather--API-Project/static/js/runtime-main.4dd0cbff.js.map",
+    "static/js/2.7229148b.chunk.js": "/Context-Weather--API-Project/static/js/2.7229148b.chunk.js",
+    "static/js/2.7229148b.chunk.js.map": "/Context-Weather--API-Project/static/js/2.7229148b.chunk.js.map",
+    "index.html": "/Context-Weather--API-Project/index.html",
+    "static/css/main.e087d1e4.chunk.css.map": "/Context-Weather--API-Project/static/css/main.e087d1e4.chunk.css.map",
+    "static/js/2.7229148b.chunk.js.LICENSE.txt": "/Context-Weather--API-Project/static/js/2.7229148b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dd0cbff.js",
+    "static/js/2.7229148b.chunk.js",
+    "static/css/main.e087d1e4.chunk.css",
+    "static/js/main.0a2d09e9.chunk.js"
+  ]
+}
